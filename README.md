@@ -1,6 +1,6 @@
-# R_market_analysis
+# Market analysis with R
 
-Beautiful is a company selling cosmetics, mainly in the UK. The company have been providing fragrances, skin care, and makeup since the nineties and has now decided to enter in the green marketing and widen their offer through a line of natural products.  The main issues marketing managers want to understand, before proceeding with a particular strategy regard:
+"Beautiful" is a company selling cosmetics, mainly in the UK. The company have been providing fragrances, skin care, and makeup since the nineties and has now decided to enter in the green marketing and widen their offer through a line of natural products.  The main issues marketing managers want to understand, before proceeding with a particular strategy regard:
 
 -	The differences in attitudes and characteristics between consumers/non-consumers of natural products (today non-consumers can be tomorrow customers?) 
 
